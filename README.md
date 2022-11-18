@@ -2,8 +2,8 @@ Olá!
 
 - Me chamo Romário Lima, estou iniciando no mundo da programação como desenvolvedor Front-end.
 - HTML, CSS e javascript.
-- sou estudante de analise e desenvolvimento de sistemas.
-- possuo conhecimentos nas áreas de telecom, fiscal, comercial, bem como conhecimentos bancarios. 
+- Sou estudante de analise e desenvolvimento de sistemas.
+- Possuo conhecimentos nas áreas de telecom, fiscal, comercial, bem como conhecimentos bancarios. 
 
 
 ## Conhecimentos
