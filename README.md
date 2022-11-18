@@ -1,3 +1,5 @@
-👋 Hi, I’m Romario lima, I'm a student of systems analysis and development.
-   I have knowledge in the area of Html, css, bootstrap, materialize and bulma, I'm also studying javascript.
-   I am looking for an opportunity for front-end development.
+Olá!
+
+Me chamo Romário Lima, estou iniciando no mundo da programação como desenvolvedor Front-end.
+sou estudante de analise e desenvolvimento de sistemas.
+possuo conhecimentos na area de telecom, fiscal e comercial. 
