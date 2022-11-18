@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Romariolima99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Romariolima99/Romariolima99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Romario lima, I'm a student of systems analysis and development.
+   I have knowledge in the area of Html, css, bootstrap, materialize and bulma, I'm also studying javascript.
+   I am looking for an opportunity for front-end development.
