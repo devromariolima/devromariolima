@@ -1,8 +1,8 @@
 Olá!
 
 - Me chamo Romário Lima, sou desenvolvedor Front-end Web.
-- HTML, CSS e javascript.
-- Sou estudante de analise e desenvolvimento de sistemas, atualmente no terceiro semestre.
+- HTML, CSS e javascript e React.
+- Sou estudante de analise e desenvolvimento de sistemas, atualmente no quarto semestre.
 - Possuo conhecimentos nas áreas de telecom, fiscal, comercial, bem como conhecimentos bancários. 
 
 
