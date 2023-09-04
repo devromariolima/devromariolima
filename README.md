@@ -1,4 +1,5 @@
-👋 Olá! me chamo Romário Lima, sou estudante de analise e desenvolvimento de sistemas, atualmente no quarto semestre, sou desenvolvedor front-end com experiência sólida em criar experiências web excepcionais.
+👋 Olá! me chamo Romário Lima, sou estudante de análise e desenvolvimento de sistemas.
+atualmente no quarto semestre, sou desenvolvedor front-end com experiência sólida em criar experiências web excepcionais.
 
 Minhas principais habilidades incluem:
  -
