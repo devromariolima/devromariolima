@@ -1,10 +1,16 @@
 Olá!
 
-- Me chamo Romário Lima, sou desenvolvedor Front-end Web.
-- HTML, CSS e javascript e React.
-- Sou estudante de analise e desenvolvimento de sistemas, atualmente no quarto semestre.
-- Possuo conhecimentos nas áreas de telecom, fiscal, comercial, bem como conhecimentos bancários. 
+👋 Olá! me chamo Romário Lima, sou estiudante de analise e desenvolvimento de sistemas, atualmente no quarto semestre, sou desenvolvedor front-end com experiência sólida em criar experiências web excepcionais. Minhas 
 
+principais habilidades incluem:
+ -
+🌟 HTML, CSS, e JavaScript: Transformo designs em código de alta qualidade, garantindo que os sites sejam visualmente atraentes e responsivos.
+
+💻 React: Tenho experiência significativa no desenvolvimento de aplicativos web usando o React, proporcionando interatividade e desempenho excepcionais.
+
+🔧 Bootstrap: Utilizo o Bootstrap para agilizar o processo de desenvolvimento e criar layouts flexíveis e elegantes.
+
+🔗 Meu objetivo é criar interfaces intuitivas e envolventes que proporcionem uma experiência de usuário excepcional. Sou apaixonado por aprender e acompanhar as últimas tendências em desenvolvimento web para fornecer resultados de alta qualidade.
 
 ## Conhecimentos
    
