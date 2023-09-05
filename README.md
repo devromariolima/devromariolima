@@ -9,7 +9,7 @@ Minhas principais habilidades incluem:
 
 🔧 Bootstrap: Utilizo o Bootstrap para agilizar o processo de desenvolvimento e criar layouts flexíveis e elegantes.
 
-🔗 Meu objetivo é criar interfaces intuitivas e envolventes que proporcionem uma experiência de usuário excepcional. Sou apaixonado por aprender e acompanhar as últimas tendências em desenvolvimento web para fornecer resultados de alta qualidade.
+🔗 Meu objetivo é criar interfaces intuitivas e envolventes que proporcionem uma experiência de usuário excepcional. Tenho facilidade de aprendizado e acompanhar as últimas tendências em desenvolvimento web para fornecer resultados de alta qualidade.
 
 ## Conhecimentos
    
