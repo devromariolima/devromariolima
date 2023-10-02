@@ -7,7 +7,7 @@ Minhas principais habilidades incluem:
 
 💻 React: Tenho experiência significativa no desenvolvimento de aplicativos web usando o React, proporcionando interatividade e desempenho excepcionais.
 
-🔧 Bootstrap / Materialize: Utilizo o Bootstrap para agilizar o processo de desenvolvimento e criar layouts flexíveis e elegantes.
+🔧 Bootstrap / Materialize: Utilizo o Bootstrap e Materialize para agilizar o processo de desenvolvimento e criar layouts flexíveis e elegantes.
 
 🔗 Meu objetivo é criar interfaces intuitivas e envolventes que proporcionem uma experiência de usuário excepcional. Tenho facilidade de aprendizado e acompanhar as últimas tendências em desenvolvimento web para fornecer resultados de alta qualidade.
 
