@@ -1,8 +1,9 @@
-Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliotecas. Formado em análise e desenvolvimento de sistemas. -
+Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliotecas. Formado em análise e desenvolvimento de sistemas. 
 
 🌐 Meu Kit de Ferramentas:
 
  ° React, JavaScript, Php e bibliotecas front-end.
+
  ° TypeScript para código seguro.
  ° Git para versionamento.
 
