@@ -1,17 +1,19 @@
-Olá, me chamo Romário Lima, sou desenvolvedor front-end e estudante de análise e desenvolvimento de sistemas.
-Possuo conhecimentos de desenvolvimento web com React e JavaScript, além de bibliotecas de Front-End.
-Utilização de TypeScript para código seguro e escalável, versionamento de código com Git.
+Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliotecas. Formado em análise e desenvolvimento de sistemas.
 
-Habilidades adicionais:
+🌐 Meu Kit de Ferramentas:
 
-- Boa comunicação.
-- Planejamento e organização.
-- Pensamento analítico.
-- Agilidade de aprendizagem.
-- Metodologias ágeis.
-- Trabalho em equipe.
+ ° React, JavaScript, Php e bibliotecas front-end.
+ ° TypeScript para código seguro.
+ ° Git para versionamento.
 
-🚀 Em busca de oportunidades desafiadoras.
+🌐 Habilidades Extras:
+
+° Comunicação eficaz.
+° Planejamento e organização.
+° Mentalidade analítica.
+° Agilidade de aprendizagem.
+° Metodologias ágeis.
+° Trabalho em equipe.
 
 ## Conhecimentos
    
