@@ -21,7 +21,7 @@ Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliote
 <img loading="typescript" src="https://img.shields.io/badge/materialize-ee6e73?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" width="90" height="30"/> 
 <img loading="typescript" src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" width="90" height="30"/> 
 <img src="https://camo.githubusercontent.com/7214756307a30b95ce076bed73fe2be1414791379b42b5ab183bad795f1fea85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"> 
-          
+<img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" style="max-width: 100%;"> 
 
 
   
