@@ -5,7 +5,8 @@ Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliote
  - ° React, JavaScript, Php e bibliotecas front-end.
  - ° TypeScript para código seguro.
  - ° Git para versionamento.
-🌐 Habilidades Extras:
+
+- 🌐 Habilidades Extras:
 
 - ° Comunicação eficaz.
 - ° Planejamento e organização.
