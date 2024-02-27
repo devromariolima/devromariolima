@@ -10,10 +10,15 @@ Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliote
 🌐 Habilidades Extras:
 
 ° Comunicação eficaz.
+
 ° Planejamento e organização.
+
 ° Mentalidade analítica.
+
 ° Agilidade de aprendizagem.
+
 ° Metodologias ágeis.
+
 ° Trabalho em equipe.
 
 ## Conhecimentos
