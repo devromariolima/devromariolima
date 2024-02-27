@@ -2,25 +2,17 @@ Olá, Sou um Desenvolvedor front-end com experiência em React e outras bibliote
 
 🌐 Meu Kit de Ferramentas:
 
- ° React, JavaScript, Php e bibliotecas front-end.
-
- ° TypeScript para código seguro.
-
- ° Git para versionamento.
-
+ - ° React, JavaScript, Php e bibliotecas front-end.
+ - ° TypeScript para código seguro.
+ - ° Git para versionamento.
 🌐 Habilidades Extras:
 
-° Comunicação eficaz.
-
-° Planejamento e organização.
-
-° Mentalidade analítica.
-
-° Agilidade de aprendizagem.
-
-° Metodologias ágeis.
-
-° Trabalho em equipe.
+- ° Comunicação eficaz.
+- ° Planejamento e organização.
+- ° Mentalidade analítica.
+- ° Agilidade de aprendizagem.
+- ° Metodologias ágeis.
+- ° Trabalho em equipe.
 
 ## Conhecimentos
    
