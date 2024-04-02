@@ -10,7 +10,7 @@ Possuo experiência em desenvolvimento com React, JavaScript, TypeScript ,Python
  - Metodologias ágeis;
  - Trabalho em equipe.
 
-Portfólio:  https://portfolio-romario-lima.vercel.app/
+# Portfólio:  https://portfolio-romario-lima.vercel.app/
 
 ## Conhecimentos
    
