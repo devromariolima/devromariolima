@@ -4,10 +4,15 @@ Possuo experiência em desenvolvimento com React, JavaScript, TypeScript ,Python
 - Habilidades Extras:
 
   Comunicação eficaz;
+
   Planejamento e organização;
+
   Mentalidade analítica;
+
   Agilidade de aprendizagem;
+
   Metodologias ágeis;
+
   Trabalho em equipe.
 
 Portfólio:  https://portfolio-romario-lima.vercel.app/
