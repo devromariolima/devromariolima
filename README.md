@@ -1,14 +1,14 @@
 Olá, me chamo Romário Lima, Sou Desenvolvedor front-end. Formado em análise e desenvolvimento de sistemas.
 Possuo experiência em desenvolvimento com React, JavaScript, TypeScript ,Python, Django, Flask e bibliotecas de front-end, além da utilização de Git para versionamento.
 
-Habilidades Extras:
+- Habilidades Extras:
 
-Comunicação eficaz;
-Planejamento e organização;
-Mentalidade analítica;
-Agilidade de aprendizagem;
-Metodologias ágeis;
-Trabalho em equipe.
+- Comunicação eficaz;
+- Planejamento e organização;
+- Mentalidade analítica;
+- Agilidade de aprendizagem;
+- Metodologias ágeis;
+- Trabalho em equipe.
 
 Portfólio:  https://portfolio-romario-lima.vercel.app/
 
