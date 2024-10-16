@@ -1,5 +1,5 @@
-Olá, me chamo Romário Lima, Sou Desenvolvedor front-end. Formado em análise e desenvolvimento de sistemas.
-Possuo experiência em desenvolvimento com React, JavaScript, TypeScript ,Python, Django, Flask e bibliotecas de front-end, além da utilização de Git para versionamento.
+Olá, me chamo Romário Lima, Sou Desenvolvedor Full-stack. Formado em análise e desenvolvimento de sistemas.
+Possuo experiência em desenvolvimento com React, Flutter, Node.js, Laravel, Python, Django, Flask e bibliotecas de front-end, além da utilização de Git para versionamento.
 
 # Habilidades Extras:
 
