@@ -40,4 +40,3 @@ Possuo experiência em desenvolvimento com React, Flutter, Node.js, Laravel, Pyt
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?romariolima99=anuraghazra&show_icons=true&theme=transparent)
