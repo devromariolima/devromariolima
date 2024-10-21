@@ -43,5 +43,5 @@ Possuo experiência em desenvolvimento com React, Flutter, Node.js, Laravel, Pyt
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romariolima99&show_icons=true&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Romariolima99ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Romariolima99=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
