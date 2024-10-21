@@ -39,4 +39,5 @@ Possuo experiência em desenvolvimento com React, Flutter, Node.js, Laravel, Pyt
 <a href="https://www.linkedin.com/in/romariolima99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romariolima99&show_icons=true&theme=dark)
 
