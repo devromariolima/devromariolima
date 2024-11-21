@@ -44,11 +44,11 @@ Possuo experiência em desenvolvimento com React, Flutter, Node.js, Laravel, Pyt
 
 ## Github Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romariolima99&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devromariolima&show_icons=true&theme=dark)
 
 ## Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romariolima99&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devromariolima&size_weight=0.5&count_weight=0.5)
 
 
 
