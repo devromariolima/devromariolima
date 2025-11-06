@@ -1,4 +1,4 @@
-Olá, me chamo Romário Lima! 👋
+Olá, me chamo Romário Lima! 👋 </br>
 Sou Desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com experiência em:
 Front-end: Vue.js, React, Flutter e bibliotecas modernas.
 Back-end: Node.js , Python e PHP.
