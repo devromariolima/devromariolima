@@ -1,8 +1,8 @@
 Olá, me chamo Romário Lima! 👋 </br>
-Sou Desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com experiência em:
-Front-end: Vue.js, React, Flutter e bibliotecas modernas.
-Back-end: Node.js , Python e PHP.
-Versionamento: Git (GitHub/GitLab/Bitbucket).
+Sou Desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com experiência em: </br>
+Front-end: Vue.js, React, Flutter e bibliotecas modernas.</br>
+Back-end: Node.js , Python e PHP.</br>
+Versionamento: Git (GitHub/GitLab/Bitbucket).</br>
 Arquitetura de Software: Clean Architecture para aplicações escaláveis e bem estruturadas.
 
 # Portfólio:  https://portfolio-romario-lima.vercel.app/
